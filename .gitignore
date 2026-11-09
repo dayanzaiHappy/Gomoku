@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# 打包 / 构建产物
+build/
+dist/
+*.spec
+
+# 运行时生成
+records/
+
+# 只留本地、不公开的资料
+docs/
+training/
+tools/
+third_party/
+data/
+.screenshots/
+.trae/
+.backup/
+requirements-rl.txt
+src/README.md
+
+# 杂项
+*.log
